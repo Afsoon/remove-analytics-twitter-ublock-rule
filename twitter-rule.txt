@@ -1,0 +1,3 @@
+! 2022-12-23 https://twitter.com
+twitter.com##:xpath(//a[contains(@href,'/analytics')]//parent::div)
+
